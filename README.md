@@ -22,9 +22,3 @@ When I'm not in the lab or the classroom, I help small businesses establish thei
 * 📚 **Lifelong Learner:** I’m always hunting for new things to learn, from low-level coding to new engineering trends.
 * 👨‍🏫 **Teaching:** There's no better way to master a topic than by teaching it to others.
 * 🌍 **Goal:** Building technology that is simple, useful, and accessible to everyone.
-
----
-
-### Let's Connect
-
-[LinkedIn]([link-ul-tau-aici](https://www.linkedin.com/in/alex-dobre-70b1b5323?utm_source=share_via&utm_content=profile&utm_medium=member_android)) | [Email](dobrealex948@gmail.com)
